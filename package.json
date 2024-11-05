@@ -1,0 +1,15 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this is the simple example of creating the node server with socket.io package and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahdi Soltani Pakdel",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
